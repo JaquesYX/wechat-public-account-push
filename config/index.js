@@ -16,16 +16,16 @@ export const config = {
 //     CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
 
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
-    // [{
-    //   name: "张三",
-    //   id: "wxafasdasdd-zxfvsdfd"
-    // },
-    // {
-    //   name: "李四",
-    //   id: "wxafasdasdd-zxfvsdfd"
-    // }]
+//     [{
+//       name: "张三",
+//       id: "wxafasdasdd-zxfvsdfd"
+//     },
+//     {
+//       name: "李四",
+//       id: "wxafasdasdd-zxfvsdfd"
+//     }]
     USERS: [
-      {name: 'me', id: "odaCs6cgJWzA2u3Z3rdypL8bIZSE"}
+      {name: 'me', id: "odaCs6cgJWzA2u3Z3rdypL8bIZSE"},
       {name: '老婆', id: "odaCs6aDKSYpiDl5PKRLoCjhzjKY"}
 //       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
 //       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
